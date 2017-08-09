@@ -1,3 +1,4 @@
 Mars is called the red planet.
-Mars has two moons, Phobos and Deimos.
 Mars' soil is red because it contains iron oxide.
+Mars has two moons, Phobos and Deimos.
+
